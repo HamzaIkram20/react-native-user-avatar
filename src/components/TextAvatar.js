@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState,useEffect} from 'react';
 import {View, Text} from 'react-native';
 import PropTypes from 'prop-types';
 import {abbr} from '../helpers';
