@@ -15,7 +15,6 @@ const TextAvatar = (props) => {
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
-    marginTop: -(size / 20),
     height: size,
     width: size,
   };
